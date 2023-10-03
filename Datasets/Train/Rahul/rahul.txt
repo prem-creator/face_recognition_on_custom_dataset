@@ -1,0 +1,1 @@
+collect the images for training data through a file collect_image_data.ipynb 
